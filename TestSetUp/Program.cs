@@ -11,7 +11,7 @@ namespace TestSetUp
         static void Main(string[] args)
         {
             Console.WriteLine("Yeah");
-            Console.WriteLine("Yasssddsssh");
+            Console.WriteLine("Yasssdh");
         }
     }
 }
